@@ -5,5 +5,13 @@ sql
 C++
 html and css
 
+
+node.js
+java script 
+
+need to learn new databases 
+like mongo db and maria db
+
 these are my current skills, 
 yet to be learn more
+
