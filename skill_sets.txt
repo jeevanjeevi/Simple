@@ -9,3 +9,5 @@ html and css
 
 nodoe.js
 java script 
+need to learn new databases 
+like mongo db and maria db
