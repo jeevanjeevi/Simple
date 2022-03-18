@@ -4,3 +4,6 @@ java
 sql
 C++
 html and css
+
+these are my current skills, 
+yet to be learn more
