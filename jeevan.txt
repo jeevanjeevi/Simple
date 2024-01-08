@@ -1,3 +1,7 @@
+Bjhkvjhdjvkjd and this is sample text to commit again in the git.
+B
+B
+B
 :wq
 
 
